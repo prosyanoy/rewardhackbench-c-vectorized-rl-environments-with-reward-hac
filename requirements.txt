@@ -1,0 +1,7 @@
+numpy
+torch
+pybind11
+cmake
+ninja
+pytest
+matplotlib
